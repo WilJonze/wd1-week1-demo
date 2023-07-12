@@ -1,0 +1,1 @@
+### This was a short intro into Web Development. A short demo on how HTML, CSS, and JavaScript work together to interact with a web page.
